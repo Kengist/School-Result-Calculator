@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/getData": "pages/api/getData.js",
+  "/dashboard/registercrs": "pages/dashboard/registercrs.js",
+  "/dashboard/registerrlt": "pages/dashboard/registerrlt.js",
+  "/dashboard/registerstd": "pages/dashboard/registerstd.js",
+  "/dashboard/viewrlt": "pages/dashboard/viewrlt.js",
+  "/dashboard/viewstd": "pages/dashboard/viewstd.js",
+  "/dashboard/viewcls": "pages/dashboard/viewcls.js"
+}
